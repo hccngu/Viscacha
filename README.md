@@ -1,6 +1,6 @@
 <!-- ![](./static/pic/Chinchilla_pic.png) -->
 <p align="center">
-  <img width="650" height="350" src="./static/pic/WechatIMG855.png">
+  <img width="650" height="350" src="./static/pic/WechatIMG885.png">
 </p>
 
 # 中文通用信息抽取大模型(**Chinchilla**)
