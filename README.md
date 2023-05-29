@@ -1,6 +1,6 @@
 <!-- ![](./static/pic/Chinchilla_pic.png) -->
 <p align="center">
-  <img width="650" height="350" src="./static/pic/Chinchilla_pic.png">
+  <img width="650" height="350" src="./static/pic/WechatIMG855.png">
 </p>
 
 # 中文通用信息抽取大模型(**Chinchilla**)
@@ -357,3 +357,16 @@ Please cite the repo if you use the data collection, code, and experimental find
 ### 数据构建阶段
 1. 针对不同的信息抽取任务，构建不同的instructions。
 2. 将数据格式统一，并加入instructions，生成大型中文信息抽取指令微调数据集。
+
+
+<!-- Chinchilla的特点：
+
+细致入微： Chinchilla（栗鼠）的毛皮非常细腻，每一个毛囊可以长出40-80根毛发。这可以象征你的模型在进行信息抽取时对细节的把握，以及对大量数据处理的能力。
+
+灵活适应： 栗鼠在野外环境中需要适应多种复杂的环境，这也反映了你的模型在处理各种不同类型和结构的数据时的灵活性。
+
+珍贵与稀有： 由于过度捕猎，栗鼠现在在野外已经很稀有，被视为珍贵的动物。这可以象征你的模型的独特性和它在信息抽取领域的价值。
+
+生活习性： 栗鼠是群居动物，它们在一起生活，分享资源。我们也希望大家一起成长，共同进步，分享资源。
+
+出色的学习能力： 栗鼠的学习能力非常出色，可以快速适应新环境，这也象征你的模型具有高效的学习和适应能力。 -->
