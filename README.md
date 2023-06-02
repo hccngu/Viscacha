@@ -105,7 +105,13 @@
 <!-- ### 数据统计 -->
 | 数据集     | 领域       | 数目      | 语言      | 任务       | 来源                                             |
 |:---------:|:---------:|:---------:|:--------:|:---------:|:------------------------------------------------:|
-| DuIE2.0   | 历史       |           | CN       | RE        |https://www.luge.ai/#/luge/dataDetail?id=5       |
+| DuIE2.0   | 人文       | 210K          | CN       | RE        |https://www.luge.ai/#/luge/dataDetail?id=5       |
+| DuEE1.0   | 新闻       | 17K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=6       |
+| DuEE-fin   | 金融       | 11.7K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=7       |
+| IREE   | 金融       | 50K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=72       |
+
+
+
 <!-- | 单元格4 | 单元格5 | 单元格6 | -->
 
 
