@@ -109,6 +109,15 @@
 | DuEE1.0   | 新闻       | 17K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=6       |
 | DuEE-fin   | 金融       | 11.7K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=7       |
 | IREE   | 金融       | 50K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=72       |
+| SanWen   | 中国文学       | 21K          | CN       | RE        |https://github.com/thunlp/Chinese_NRE/tree/master/data/SanWen       |
+| BosonNER   | 通用       | 120K          | CN       | NER        |https://github.com/HuHsinpang/BosonNER-Pretreatment/tree/master/boson/data   |
+| MSRANER   | 通用       | 50K          | CN       | NER        |https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/MSRA       |
+| FinRe   | 金融       | 18K          | CN       | RE        |https://github.com/thunlp/Chinese_NRE/tree/master/data/FinRE      |
+
+
+
+
+
 
 
 
