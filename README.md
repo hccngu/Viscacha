@@ -113,6 +113,16 @@
 | BosonNER   | 通用       | 120K          | CN       | NER        |https://github.com/HuHsinpang/BosonNER-Pretreatment/tree/master/boson/data   |
 | MSRANER   | 通用       | 50K          | CN       | NER        |https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/MSRA       |
 | FinRe   | 金融       | 18K          | CN       | RE        |https://github.com/thunlp/Chinese_NRE/tree/master/data/FinRE      |
+| SemEval-2010 Task 8   | 通用       | 10K          | EN       | RE        |https://github.com/thunlp/OpenNRE/blob/master/benchmark/download_semeval.sh      |
+| TACRED   | 通用       | 106K          | EN       | NER, RE        |https://github.com/yuhaozhang/tacred-relation/tree/master/dataset/tacred      |
+| NYT10   | 通用       | 694K          | EN       | RE        |https://github.com/thunlp/OpenNRE/blob/master/benchmark/download_nyt10.sh      |
+| DocRED   | 通用       | UNK          | EN       | RE        |https://drive.google.com/drive/folders/1c5-0YwnoJx8NS6CV2f-NoTHR__BdkNqw      |
+| CLUENER2020   | 通用       | 11K          | CN       | NER        |https://www.cluebenchmarks.com/introduce.html     |
+
+
+
+
+
 
 
 
