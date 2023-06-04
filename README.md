@@ -118,6 +118,21 @@
 | NYT10   | 通用       | 694K          | EN       | RE        |https://github.com/thunlp/OpenNRE/blob/master/benchmark/download_nyt10.sh      |
 | DocRED   | 通用       | UNK          | EN       | RE        |https://drive.google.com/drive/folders/1c5-0YwnoJx8NS6CV2f-NoTHR__BdkNqw      |
 | CLUENER2020   | 通用       | 11K          | CN       | NER        |https://www.cluebenchmarks.com/introduce.html     |
+| Title2Event   | 新闻       | 42K          | CN       | EE        |https://open-event-hub.github.io/title2event/     |
+| BioRED   | 生物医学       | UNK          | EN       | RE        |https://github.com/ncbi/BioRED     |
+| 文娱NER-Youku   | 文娱       | 10K          | CN       | NER        |https://github.com/allanj/ner_incomplete_annotation/tree/master/data/youku    |
+| CONLL2003   | 新闻       | 284K          | EN       | NER        |https://github.com/allanj/ner_incomplete_annotation/tree/master/data/conll2003    |
+| 电商NER-Taobao   | 电商       | 8K          | CN       | NER        |https://github.com/allanj/ner_incomplete_annotation/tree/master/data/ecommerce     |
+| 财经NER-新浪财经   | 金融       | 5K          | CN       | NER        |https://github.com/jiesutd/LatticeLSTM/tree/master/data     |
+| 人民日报-NER   | 新闻       | 26K+          | CN       | NER        |https://github.com/zjy-ucas/ChineseNER/tree/master/data     |
+
+
+
+
+
+
+
+
 
 
 
