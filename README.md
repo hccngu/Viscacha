@@ -134,7 +134,7 @@
 | 任务对话2018-NER   | 通用       | 21K         | CN       | NER        |http://tcci.ccf.org.cn/conference/2018/taskdata.php#     |
 | CoNLL04   | 新闻       | 9K         | EN       | RE        |http://lavis.cs.hs-rm.de/storage/spert/public/datasets/conll04/    |
 | OntoNotes 4.0   | 新闻       | 50K         | CN       | NER        |https://www.datafountain.cn/competitions/510/datasets    |
-| firefly-train-1.1M    | 通用       | UNK         | CN       | NER        |https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M    |
+| firefly-train-1.1M    | 通用       | 50K         | CN       | NER        |https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M    |
 | IE INSTRUCTIONS    | 通用       | UNK         | EN       | NER, RE, EE        |https://drive.google.com/file/d/1T-5IbocGka35I7X3CE6yKe5N_Xg2lVKT/view    |
 
 
