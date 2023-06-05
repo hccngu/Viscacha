@@ -125,16 +125,17 @@
 | 电商NER-Taobao   | 电商       | 8K          | CN       | NER        |https://github.com/allanj/ner_incomplete_annotation/tree/master/data/ecommerce     |
 | 财经NER-新浪财经   | 金融       | 5K          | CN       | NER        |https://github.com/jiesutd/LatticeLSTM/tree/master/data     |
 | 人民日报-NER   | 新闻       | 26K+          | CN       | NER        |https://github.com/zjy-ucas/ChineseNER/tree/master/data     |
-
-
-
-
-
-
-
-
-
-
+| 智慧教育开放知识数据集   | 教育       | 185K          | CN       | NER, RE        |https://blog.csdn.net/qq_36426650/article/details/87719204     |
+| 军事装备试验鉴定-NER   | 军事       | 0.8K          | CN       | NER        |https://github.com/hy-struggle/ccks_ner/tree/master/militray/PreModel_Encoder_CRF/data     |
+| CMeEE   | 医学       | 23K         | CN       | NER        |https://tianchi.aliyun.com/dataset/95414     |
+| CMeIE   | 医学       | 22K         | CN       | RE        |https://tianchi.aliyun.com/dataset/95414     |
+| 银行借贷2021-NER   | 金融       | 10K         | CN       | NER        |https://www.heywhale.com/mw/dataset/617969ec768f3b0017862990/file     |
+| SKE 2019   | 通用       | 210K         | CN       | NER, RE        |https://toscode.gitee.com/yiweilu/Entity-Relation-Extraction/tree/master/raw_data     |
+| 任务对话2018-NER   | 通用       | 21K         | CN       | NER        |http://tcci.ccf.org.cn/conference/2018/taskdata.php#     |
+| CoNLL04   | 新闻       | 9K         | EN       | RE        |http://lavis.cs.hs-rm.de/storage/spert/public/datasets/conll04/    |
+| OntoNotes 4.0   | 新闻       | 50K         | CN       | NER        |https://www.datafountain.cn/competitions/510/datasets    |
+| firefly-train-1.1M    | 通用       | UNK         | CN       | NER        |https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M    |
+| IE INSTRUCTIONS    | 通用       | UNK         | EN       | NER, RE, EE        |https://drive.google.com/file/d/1T-5IbocGka35I7X3CE6yKe5N_Xg2lVKT/view    |
 
 
 
