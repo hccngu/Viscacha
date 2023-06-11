@@ -109,7 +109,7 @@
 | DuEE1.0   | 新闻       | 17K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=6       |
 | DuEE-fin   | 金融       | 11.7K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=7       |
 | IREE   | 金融       | 50K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=72       |
-| SanWen   | 中国文学       | 21K          | CN       | RE        |https://github.com/thunlp/Chinese_NRE/tree/master/data/SanWen       |
+| SanWen   | 中国文学       | 28K          | CN       | RE, NER        |https://github.com/thunlp/Chinese_NRE/tree/master/data/SanWen       |
 | BosonNER   | 通用       | 120K          | CN       | NER        |https://github.com/HuHsinpang/BosonNER-Pretreatment/tree/master/boson/data   |
 | MSRANER   | 通用       | 50K          | CN       | NER        |https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/MSRA       |
 | FinRe   | 金融       | 18K          | CN       | RE        |https://github.com/thunlp/Chinese_NRE/tree/master/data/FinRE      |
@@ -117,14 +117,15 @@
 | TACRED   | 通用       | 106K          | EN       | NER, RE        |https://github.com/yuhaozhang/tacred-relation/tree/master/dataset/tacred      |
 | NYT10   | 通用       | 694K          | EN       | RE        |https://github.com/thunlp/OpenNRE/blob/master/benchmark/download_nyt10.sh      |
 | DocRED   | 通用       | UNK          | EN       | RE        |https://drive.google.com/drive/folders/1c5-0YwnoJx8NS6CV2f-NoTHR__BdkNqw      |
-| CLUENER2020   | 通用       | 11K          | CN       | NER        |https://www.cluebenchmarks.com/introduce.html     |
+| CLUENER2020   | 通用       | 12K          | CN       | NER        |https://www.cluebenchmarks.com/introduce.html     |
 | Title2Event   | 新闻       | 42K          | CN       | EE        |https://open-event-hub.github.io/title2event/     |
 | BioRED   | 生物医学       | UNK          | EN       | RE        |https://github.com/ncbi/BioRED     |
 | 文娱NER-Youku   | 文娱       | 10K          | CN       | NER        |https://github.com/allanj/ner_incomplete_annotation/tree/master/data/youku    |
 | CONLL2003   | 新闻       | 284K          | EN       | NER        |https://github.com/allanj/ner_incomplete_annotation/tree/master/data/conll2003    |
 | 电商NER-Taobao   | 电商       | 8K          | CN       | NER        |https://github.com/allanj/ner_incomplete_annotation/tree/master/data/ecommerce     |
 | 财经NER-新浪财经   | 金融       | 5K          | CN       | NER        |https://github.com/jiesutd/LatticeLSTM/tree/master/data     |
-| 人民日报-NER   | 新闻       | 26K+          | CN       | NER        |https://github.com/zjy-ucas/ChineseNER/tree/master/data     |
+| 人民日报-2014   | 新闻       | 286K         | CN       | NER        |https://github.com/zjy-ucas/ChineseNER/tree/master/data     |
+| 人民日报-1998   | 新闻       | 28K         | CN       | NER        |https://github.com/zjy-ucas/ChineseNER/tree/master/data     |
 | 智慧教育开放知识数据集   | 教育       | 185K          | CN       | NER, RE        |https://blog.csdn.net/qq_36426650/article/details/87719204     |
 | 军事装备试验鉴定-NER   | 军事       | 0.8K          | CN       | NER        |https://github.com/hy-struggle/ccks_ner/tree/master/militray/PreModel_Encoder_CRF/data     |
 | CMeEE   | 医学       | 23K         | CN       | NER        |https://tianchi.aliyun.com/dataset/95414     |
@@ -134,6 +135,7 @@
 | 任务对话2018-NER   | 通用       | 21K         | CN       | NER        |http://tcci.ccf.org.cn/conference/2018/taskdata.php#     |
 | CoNLL04   | 新闻       | 9K         | EN       | RE        |http://lavis.cs.hs-rm.de/storage/spert/public/datasets/conll04/    |
 | OntoNotes 4.0   | 新闻       | 50K         | CN       | NER        |https://www.datafountain.cn/competitions/510/datasets    |
+| CCIR2021-NER    | 新闻       | 15K         | CN       | NER        |https://www.datafountain.cn/competitions/510   |
 | firefly-train-1.1M    | 通用       | 50K         | CN       | NER        |https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M    |
 | IE INSTRUCTIONS    | 通用       | UNK         | EN       | NER, RE, EE        |https://drive.google.com/file/d/1T-5IbocGka35I7X3CE6yKe5N_Xg2lVKT/view    |
 
