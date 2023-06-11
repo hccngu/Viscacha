@@ -138,6 +138,11 @@
 | CCIR2021-NER    | 新闻       | 15K         | CN       | NER        |https://www.datafountain.cn/competitions/510   |
 | firefly-train-1.1M    | 通用       | 50K         | CN       | NER        |https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M    |
 | IE INSTRUCTIONS    | 通用       | UNK         | EN       | NER, RE, EE        |https://drive.google.com/file/d/1T-5IbocGka35I7X3CE6yKe5N_Xg2lVKT/view    |
+| CCKS2017-NER    | 医疗       | 2K         | CN       | NER        |https://www.biendata.xyz/competition/CCKS2017_1/   |
+| CCKS2018-NER    | 医疗       | 0.8K         | CN       | NER        |https://www.biendata.xyz/competition/CCKS2018_1/   |
+| CCKS2019-NER    | 医疗       | 1.4K         | CN       | NER        |https://www.biendata.xyz/competition/ccks_2019_1/   |
+| CCKS2020-NER    | 医疗       | 1.4K         | CN       | NER        |https://www.biendata.xyz/competition/ccks_2020_2_1/   |
+
 
 
 
