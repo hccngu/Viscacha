@@ -110,7 +110,7 @@
 | DuEE-fin   | 金融       | 11.7K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=7       |
 | IREE   | 金融       | 50K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=72       |
 | SanWen   | 中国文学       | 21K          | CN       | RE        |https://github.com/thunlp/Chinese_NRE/tree/master/data/SanWen       |
-| BosonNER   | 通用       | 120K          | CN       | NER        |https://github.com/HuHsinpang/BosonNER-Pretreatment/tree/master/boson/data   |
+| BosonNER   | 通用       | 10K          | CN       | NER        |https://github.com/HuHsinpang/BosonNER-Pretreatment/tree/master/boson/data   |
 | MSRANER   | 通用       | 48K          | CN       | NER        |https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/MSRA       |
 | FinRe   | 金融       | 18K          | CN       | RE        |https://github.com/thunlp/Chinese_NRE/tree/master/data/FinRE      |
 | SemEval-2010 Task 8   | 通用       | 10K          | EN       | RE        |https://github.com/thunlp/OpenNRE/blob/master/benchmark/download_semeval.sh      |
