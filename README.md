@@ -133,7 +133,7 @@
 | CMeEE   | 医学       | 23K         | CN       | NER        |https://tianchi.aliyun.com/dataset/95414     |
 | CMeIE   | 医学       | 22K         | CN       | RE        |https://tianchi.aliyun.com/dataset/95414     |
 | 银行借贷2021-NER   | 金融       | 10K         | CN       | NER        |https://www.heywhale.com/mw/dataset/617969ec768f3b0017862990/file     |
-| SKE 2019   | 通用       | 210K         | CN       | NER, RE        |https://toscode.gitee.com/yiweilu/Entity-Relation-Extraction/tree/master/raw_data     |
+| SKE 2019   | 通用       | 210K         | CN       | RE        |https://toscode.gitee.com/yiweilu/Entity-Relation-Extraction/tree/master/raw_data     |
 | 任务对话2018-NER   | 通用       | 21K         | CN       | NER        |http://tcci.ccf.org.cn/conference/2018/taskdata.php#     |
 | CoNLL04   | 新闻       | 9K         | EN       | RE        |http://lavis.cs.hs-rm.de/storage/spert/public/datasets/conll04/    |
 | OntoNotes 4.0   | 新闻       | 50K         | CN       | NER        |https://www.datafountain.cn/competitions/510/datasets    |
