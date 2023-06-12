@@ -109,7 +109,7 @@
 | DuEE1.0   | 新闻       | 17K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=6       |
 | DuEE-fin   | 金融       | 11.7K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=7       |
 | IREE   | 金融       | 50K          | CN       | EE        |https://www.luge.ai/#/luge/dataDetail?id=72       |
-| SanWen   | 中国文学       | 28K          | CN       | RE, NER        |https://github.com/thunlp/Chinese_NRE/tree/master/data/SanWen       |
+| SanWen   | 中国文学       | 28K          | CN       | RE        |https://github.com/thunlp/Chinese_NRE/tree/master/data/SanWen       |
 | BosonNER   | 通用       | 120K          | CN       | NER        |https://github.com/HuHsinpang/BosonNER-Pretreatment/tree/master/boson/data   |
 | MSRANER   | 通用       | 50K          | CN       | NER        |https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/MSRA       |
 | FinRe   | 金融       | 18K          | CN       | RE        |https://github.com/thunlp/Chinese_NRE/tree/master/data/FinRE      |
@@ -142,7 +142,12 @@
 | CCKS2018-NER    | 医疗       | 0.8K         | CN       | NER        |https://www.biendata.xyz/competition/CCKS2018_1/   |
 | CCKS2019-NER    | 医疗       | 1.4K         | CN       | NER        |https://www.biendata.xyz/competition/ccks_2019_1/   |
 | CCKS2020-NER    | 医疗       | 1.4K         | CN       | NER        |https://www.biendata.xyz/competition/ccks_2020_2_1/   |
-
+| WeiBo    | 通用       | 1.8K         | CN       | NER        |https://github.com/hltcoe/golden-horse   |
+| MMC    | 医疗       | 3.5K         | CN       | NER        |https://tianchi.aliyun.com/dataset/88836   |
+| Resume    | 人文       | 4.8K         | CN       | NER        |https://github.com/jiesutd/LatticeLSTM/tree/master/ResumeNER   |
+| DLNER   | 中国文学       | 28K          | CN       | NER        |https://github.com/thunlp/Chinese_NRE/tree/master/data/SanWen       |
+| WanChuang   | 医疗       | 28K          | CN       | NER        |https://tianchi.aliyun.com/competition/entrance/531827/introduction      |
+| GAIIC2022_task2   | 电商       | 28K          | CN       | NER        |https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content/2      |
 
 
 
