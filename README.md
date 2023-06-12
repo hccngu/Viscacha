@@ -126,7 +126,9 @@
 | 财经NER-新浪财经   | 金融       | 5K          | CN       | NER        |https://github.com/jiesutd/LatticeLSTM/tree/master/data     |
 | 人民日报-2014   | 新闻       | 286K         | CN       | NER        |https://github.com/zjy-ucas/ChineseNER/tree/master/data     |
 | 人民日报-1998   | 新闻       | 28K         | CN       | NER        |https://github.com/zjy-ucas/ChineseNER/tree/master/data     |
-| 智慧教育开放知识数据集   | 教育       | 185K          | CN       | NER, RE        |https://blog.csdn.net/qq_36426650/article/details/87719204     |
+| 智慧教育开放知识数据集-数据结构   | 教育       | 176K          | CN       | RE        |https://blog.csdn.net/qq_36426650/article/details/87719204     |
+| 智慧教育开放知识数据集-初中数学   | 教育       | 6K          | CN       | NER       |https://blog.csdn.net/qq_36426650/article/details/87719204     |
+| 智慧教育开放知识数据集-高中数学   | 教育       | 2K          | CN       | NER        |https://blog.csdn.net/qq_36426650/article/details/87719204     |
 | 军事装备试验鉴定-NER   | 军事       | 0.8K          | CN       | NER        |https://github.com/hy-struggle/ccks_ner/tree/master/militray/PreModel_Encoder_CRF/data     |
 | CMeEE   | 医学       | 23K         | CN       | NER        |https://tianchi.aliyun.com/dataset/95414     |
 | CMeIE   | 医学       | 22K         | CN       | RE        |https://tianchi.aliyun.com/dataset/95414     |
@@ -148,6 +150,7 @@
 | DLNER   | 中国文学       | 28K          | CN       | NER        |https://github.com/thunlp/Chinese_NRE/tree/master/data/SanWen       |
 | WanChuang   | 医疗       | 1.2K          | CN       | NER        |https://tianchi.aliyun.com/competition/entrance/531827/introduction      |
 | GAIIC2022_task2   | 电商       | 40K          | CN       | NER        |https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content/2      |
+| IMCS21_task1   | 医疗       | 98K          | CN       | NER        |http://www.fudan-disc.com/sharedtask/imcs21/index.html     |
 
 
 
